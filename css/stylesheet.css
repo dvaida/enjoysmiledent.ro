@@ -4548,3 +4548,14 @@ img.mfp-img {
     margin: 5rem 7rem; 
 }
 
+.pricing-table {
+    font-size: 15px;
+    text-align: left;
+}
+
+.price-right {
+    float: right;
+    margin-right: 10px;
+    text-wrap: nowrap;
+}
+
