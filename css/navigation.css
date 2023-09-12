@@ -282,7 +282,8 @@ body{
   position: relative;
   text-decoration: none;
   font-size: 14px;
-  color: #333;
+  /*color: #333;*/
+  color: #CCC;
   -webkit-transition: color 0.3s, background 0.3s;
   transition: color 0.3s, background 0.3s;
 }
@@ -302,7 +303,8 @@ body{
 .nav-menu > li:hover > a,
 .nav-menu > li.active > a,
 .nav-menu > li.focus > a {
-  color: #333;
+  /*color: #333;*/
+  color: #666;
 }
 
 .nav-menu > li > a > i,
