@@ -158,9 +158,10 @@ body{
 }
 
 .nav-toggle {
+  color: #CCC;
   width: 30px;
   height: 130px;
-  padding: 6px 2px 0;
+  /*padding: 6px 2px 0;*/
   position: absolute;
   top: 8%;
   right: 15px;
@@ -168,21 +169,25 @@ body{
   cursor: pointer;
 }
 
-.nav-toggle:before {
-  content: "";
-  position: absolute;
-  width: 24px;
-  height: 2px;
-  background-color: #CCC;
-  border-radius: 10px;
-  box-shadow: 0 0.5em 0 0 #CCC, 0 1em 0 0 #CCC;
-  font-size: 16px;
+.nav-toggle i{
+  font-size: 34px;
 }
 
-.navigation-fixed-wrapper.fixed .nav-toggle:before{
-  background-color: #CCC;
-  box-shadow: 0 0.5em 0 0 #CCC, 0 1em 0 0 #CCC;
-}
+/*.nav-toggle:before {*/
+/*  content: "";*/
+/*  position: absolute;*/
+/*  width: 24px;*/
+/*  height: 2px;*/
+/*  background-color: #CCC;*/
+/*  border-radius: 10px;*/
+/*  box-shadow: 0 0.5em 0 0 #CCC, 0 1em 0 0 #CCC;*/
+/*  font-size: 16px;*/
+/*}*/
+
+/*.navigation-fixed-wrapper.fixed .nav-toggle:before{*/
+/*  background-color: #CCC;*/
+/*  box-shadow: 0 0.5em 0 0 #CCC, 0 1em 0 0 #CCC;*/
+/*}*/
 
 .navigation-portrait .nav-toggle {
   display: block;
