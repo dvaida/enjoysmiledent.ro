@@ -2931,7 +2931,7 @@ hr.contact-divider{
     text-align: center;
     font-family: 'Poppins', sans-serif;
     padding: 0px;
-    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
     background-color: #FFF;
     box-shadow: 0 0 10px rgba(204,204,204,0.6);
     -moz-box-shadow: 0 0 10px rgba(204,204,204,0.6);
@@ -2940,7 +2940,8 @@ hr.contact-divider{
 }
 
 .shadow-pricing-table .table-header{
-   padding: 1.5rem 0rem 0.5rem;
+   padding: 1.5rem 0.8rem 0.5rem;
+   text-align: left;
 }
 
 .shadow-center-table{
