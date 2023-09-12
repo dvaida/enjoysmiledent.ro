@@ -137,7 +137,8 @@ a.btn-slider {
 }
     
 .footer-col .footer-logo{ 
-    width: 150px; 
+    /*width: 150px; */
+    margin-left: 10px;
 }
     
 .content-side{
