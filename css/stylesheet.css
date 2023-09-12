@@ -163,7 +163,7 @@ p {
 
 a {
 	color: #FFF;
-    text-decoration: none;
+    text-decoration: underline;
     transition: 0.3s;
 }
 
@@ -4558,5 +4558,9 @@ img.mfp-img {
     float: right;
     margin-right: 10px;
     text-wrap: nowrap;
+}
+
+p img{
+    max-width:100% !important;
 }
 

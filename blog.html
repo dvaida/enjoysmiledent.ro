@@ -14,227 +14,51 @@ layout: default
 <section>
     <div class="container">
         <div class="row">
+            {% for post in site.posts %}
+
             <div class="col-md-6 col-lg-4">
                 <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
+                    <figure class="tb-image"><img src="{{ post.image }}/w=600" alt=""></figure>
+                    <div class="tb-caption" onclick="javascript:window.location.href='{{post.url}}'">
                         <div class="inner-caption">
                             <div class="ic-top">
                                 <div class="post-date">
-                                    <p>25<br><span>May</span></p>
+                                    <p>{{ post.date | date: "%d %m" }}</p>
                                 </div>
-                                <h3>Causes and Treatment of Gengivitis</h3>
+                                <h3>{{ post.title }}</h3>
                             </div>
-                            <p>The ground-breaking research took 11 years to complete and is the longest study.</p>
+                            <p>{{ post.short_description }}</p>
                         </div>
                     </div>
                     <div class="tb-bottom">
                         <div class="tbb-inner">
-                            <div class="user-box"><p> John Anderson</p></div>
-                            <div class="comment-box-alt"><p> 314</p></div>
+                            <div class="user-box"><p> Juli Ravnic</p></div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-4 bg-col-movil">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>23<br><span>May</span></p>
-                                </div>
-                                <h3>Oral Health Foundation Green Paper</h3>
-                            </div>
-                            <p>Scientists found that people who use an electric toothbrush have healthier gums.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Lisa Jones</p></div>
-                            <div class="comment-box-alt"><p> 245</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-tablet">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>12<br><span>May</span></p>
-                                </div>
-                                <h3>Share a Smile Winners Announced</h3>
-                            </div>
-                            <p>Having undertaken a comprehensive review of existing guidance for best use of
-                                denture.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Sara Smith</p></div>
-                            <div class="comment-box-alt"><p> 433</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-desktop">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>12<br><span>May</span></p>
-                                </div>
-                                <h3>Launch of New Guidelines for Denture</h3>
-                            </div>
-                            <p>The new recommendations have been launched to combat the current lack of guidance.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Tim Cook</p></div>
-                            <div class="comment-box-alt"><p> 189</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-desktop">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>11<br><span>May</span></p>
-                                </div>
-                                <h3>Increasing Costs Provoke Fall in Dental</h3>
-                            </div>
-                            <p>Determined than ever before to champion good oral health and help create a better.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Carlos Smith</p></div>
-                            <div class="comment-box-alt"><p> 123</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-desktop">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>10<br><span>May</span></p>
-                                </div>
-                                <h3>Health Charity Calls for Working </h3>
-                            </div>
-                            <p>Independence and isolation all affect a person’s ability to care for their Significant
-                                impact.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Clara Disla</p></div>
-                            <div class="comment-box-alt"><p> 234</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-desktop">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>09<br><span>May</span></p>
-                                </div>
-                                <h3>Electric Toothbrushes Win the Head-to-Head</h3>
-                            </div>
-                            <p>Smoking or chewing tobacco, drinking alcohol to excess, the human papillomavirus.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Victor Vazquez</p></div>
-                            <div class="comment-box-alt"><p> 123</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-desktop">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>08<br><span>May</span></p>
-                                </div>
-                                <h3>Treatment Could Regenerate Gum Tissue</h3>
-                            </div>
-                            <p>During the last year, more than 8,300 people have been diagnosed with mouth cancer.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Junior Pole</p></div>
-                            <div class="comment-box-alt"><p> 199</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4 bg-col-desktop">
-                <div class="thumbnail-box blog-grid">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>07<br><span>May</span></p>
-                                </div>
-                                <h3>Health Campaigners Yrge Brits to Urgently</h3>
-                            </div>
-                            <p>An investigation by one of the UK’s leading health charities has found British
-                                adults.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Albert Belle</p></div>
-                            <div class="comment-box-alt"><p> 350</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+            {% endfor %}
         </div>
     </div>
     <!-- PAGINATION START -->
-    <div class="site-pagination">
-        <nav aria-label="Page navigation example">
-            <ul class="pagination">
-                <li class="page-item">
+<!--    <div class="site-pagination">-->
+<!--        <nav aria-label="Page navigation example">-->
+<!--            <ul class="pagination">-->
+<!--                <li class="page-item">-->
 
-                </li>
-                <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                <li class="page-item"><a class="page-link" href="#">2</a></li>
-                <li class="page-item"><a class="page-link" href="#">3</a></li>
-                <li class="page-item">
-                    <a class="page-link" href="#" aria-label="Next">
-                        <i class="fas fa-arrow-right"></i>
-                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
+<!--                </li>-->
+<!--                <li class="page-item active"><a class="page-link" href="#">1</a></li>-->
+<!--                <li class="page-item"><a class="page-link" href="#">2</a></li>-->
+<!--                <li class="page-item"><a class="page-link" href="#">3</a></li>-->
+<!--                <li class="page-item">-->
+<!--                    <a class="page-link" href="#" aria-label="Next">-->
+<!--                        <i class="fas fa-arrow-right"></i>-->
+<!--                    </a>-->
+<!--                </li>-->
+<!--            </ul>-->
+<!--        </nav>-->
+<!--    </div>-->
     <!-- PAGINATION END -->
 
 </section>
