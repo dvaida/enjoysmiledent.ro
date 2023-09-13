@@ -562,18 +562,21 @@ layout: default
                 in igiena orala.</p>
         </div>
         <div class="news-carousel slider hover-effects image-hover">
+
+            {% for post in site.posts limit:3 %}
+
             <div class="slide">
                 <div class="thumbnail-box">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
+                    <figure class="tb-image"><img src="{{ post.image }}/600x400" alt=""></figure>
+                    <div class="tb-caption" onclick="javascript:window.location.href='{{post.url}}'">
                         <div class="inner-caption">
                             <div class="ic-top">
                                 <div class="post-date">
-                                    <p>25<br><span>May</span></p>
+                                    <p>{{ post.date | date: "%d %b" }}</p>
                                 </div>
-                                <h3>Causes and Treatment of Gengivitis</h3>
+                                <h3>{{ post.title }}</h3>
                             </div>
-                            <p>The ground-breaking research took 11 years to complete and is the longest study.</p>
+                            <p>{{ post.short_description | truncate: 65}}</p>
                         </div>
                     </div>
                     <div class="tb-bottom">
@@ -584,73 +587,9 @@ layout: default
                     </div>
                 </div>
             </div>
-            <div class="slide">
-                <div class="thumbnail-box">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>23<br><span>May</span></p>
-                                </div>
-                                <h3>Oral Health Foundation Green Paper</h3>
-                            </div>
-                            <p>Scientists found that people who use an electric toothbrush have healthier gums.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Lisa Jones</p></div>
-                            <div class="comment-box-alt"><p> 245</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide">
-                <div class="thumbnail-box">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>12<br><span>May</span></p>
-                                </div>
-                                <h3>Share a Smile Winners Announced</h3>
-                            </div>
-                            <p>Having undertaken a comprehensive review of existing guidance for best use of
-                                denture.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Sara Smith</p></div>
-                            <div class="comment-box-alt"><p> 433</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="slide">
-                <div class="thumbnail-box">
-                    <figure class="tb-image"><img src="https://via.placeholder.com//992x700" alt=""></figure>
-                    <div class="tb-caption">
-                        <div class="inner-caption">
-                            <div class="ic-top">
-                                <div class="post-date">
-                                    <p>12<br><span>May</span></p>
-                                </div>
-                                <h3>Launch of New Guidelines for Denture</h3>
-                            </div>
-                            <p>The new recommendations have been launched to combat the current lack of guidance.</p>
-                        </div>
-                    </div>
-                    <div class="tb-bottom">
-                        <div class="tbb-inner">
-                            <div class="user-box"><p> Tim Cook</p></div>
-                            <div class="comment-box-alt"><p> 189</p></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+            {% endfor %}
+
         </div>
     </div>
     <!-- LATEST NEWS END -->
