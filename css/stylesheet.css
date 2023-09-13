@@ -172,6 +172,16 @@ a:hover {
     text-decoration: none;
 }
 
+a.contact {
+    color: inherit;
+    text-decoration: underline;
+}
+
+a.contact:hover {
+    color: #3AB3DF;
+    text-decoration: none;
+}
+
 /*====================================================
     3. SPACE AND ALIGMENT. 
   ====================================================*/
