@@ -155,10 +155,10 @@ h6, .h6 {
 p {
   font-size: 15px;
   font-family: 'Poppins', sans-serif;
-  color: #8C8C9E;
+  color: #333;
   font-weight: 400;
   line-height: 2;
-   margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 a {
@@ -1996,7 +1996,7 @@ a.active:after {
     -webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
     margin: 0px 10px 10px;
-}  
+}
     
 .tb-image img{
     width: 100%;
@@ -2041,7 +2041,7 @@ a.active:after {
 }
 
 .post-date{
-    width: 50px;
+    width: 55px;
     height: 50px;
     background-color: #eb662d;
     text-align: center;
@@ -2443,6 +2443,7 @@ hr.post-divider{
 .post-content h3{
     font-size: 1.2rem;
     font-weight: 700;
+    margin-bottom: 1rem;
 }
 
 .post-content p{
@@ -2451,6 +2452,48 @@ hr.post-divider{
 
 .post-content .post-details p{
     margin-bottom: 0rem;
+}
+
+.post-content ul li {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    font-weight: 400;
+    line-height: 2;
+    margin-bottom: 0px;
+    /*margin-left: 15px;*/
+}
+
+.post-content ul {
+    margin-bottom: 0px;
+}
+
+.post-content h4 {
+    margin-bottom: 1rem;
+}
+
+.post-content a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.post-content .highlighter-rouge {
+    margin-left: 15px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+    font-weight: 400;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+
+.post-content blockquote {
+    border-left: 5px solid #aaa;
+    padding-left: 0.5rem;
 }
 
 .ludwig {
