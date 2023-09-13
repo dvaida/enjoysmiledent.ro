@@ -1,0 +1,19 @@
+preturi:
+  - nume: Obturație compozit fizionomic dinti frontali
+    pret: 300
+  - nume: Obturatie compozit fizionomic premolari
+    pret: 250
+  - nume: Obturatie compozit fizionomic molari
+    pret: 300
+  - nume: Obturatie MOD cavitate atipica
+    pret: 350
+  - nume: Reconstrucție coronară + pivot fibra sticla
+    pret: 400
+  - nume: Obturatie glasionomer
+    pret: 250
+  - nume: Obturatie provizorie
+    pret: 100
+  - nume: Reconstrucție corono-radiculara - compozit ranforsat fibra sticla
+    pret: 250
+  - nume: Fațetare directa
+    pret: 350

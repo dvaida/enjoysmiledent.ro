@@ -1,0 +1,36 @@
+preturi:
+  - nume: Ablație lucrare / dinte
+    pret: 50-100
+  - nume: Coroana acrilica provizorie
+    pret: 100
+  - nume: Coroana PMMA (provizorie de lunga durata)
+    pret: 280
+  - nume: Coroana metalo-ceramica
+    pret: 800
+  - nume: Coroana zirconiu + ceramica
+    pret: 1400
+  - nume: Coroana E-max (ceramica presata)
+    pret: 1500
+  - nume: Fațeta E-max
+    pret: 1500
+  - nume: Inlay, onlay, tabletop Emax
+    pret: 1200
+  - nume: Cimentare / element
+    pret: 50
+  - nume: Mock-up direct dinte
+    pret: 100
+  - nume: Mock-up + wax-up dinte
+    pret: 100
+  - nume: Proteza acrilica cu dinti din acrilat
+    pret: 1700
+  - nume: Proteza acrilica cu dinti din compozit
+    pret: 1800
+  - nume: Reparație proteza
+    pret: 300
+  - nume: Proteza scheletata (cu diferite sisteme speciale / arcada - partea mobila; prețul se stabilește in funcție de elementele speciale) incepand de la
+    pret: 3500
+  - nume: DCR turnat
+    pret: 350
+  - nume: DCR zirconiu
+    pret: 600
+

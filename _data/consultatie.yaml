@@ -1,0 +1,13 @@
+preturi:
+  - nume: Consultație primara și plan de tratament inițial (include deviz de plata estimativ)
+    pret: 150
+  - nume: Consultație periodica
+    pret: 50
+  - nume: Fotografii diagnostice
+    pret: 100
+  - nume: Modele de studiu
+    pret: 100
+  - nume: Modele de studiu printate
+    pret: 300-450
+  - nume: Tratament de urgenta
+    pret: 200

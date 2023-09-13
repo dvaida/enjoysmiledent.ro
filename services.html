@@ -21,15 +21,15 @@ layout: default
                         <h3>Consultatie stomatologica&nbsp;/&nbsp;control</h3>
                     </div>
                     <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.consultatie.preturi %}
+
                         <tr>
-                            <td>Consultație primara și plan de tratament inițial (include deviz de plata estimativ)</td><td><span class="price-right">150 RON</span></td>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
                         </tr>
-                        <tr>
-                            <td>Consultație periodica</td><td><span class="price-right">50 RON</span></td>
-                        </tr>
-                        <tr>
-                            <td>Fotografii diagnostice</td><td><span class="price-right">100 RON</span></td>
-                        </tr>
+
+                        {% endfor %}
+
                     </table>
                 </div>
             </div>
@@ -39,15 +39,105 @@ layout: default
                         <h3>Sanatate orala&nbsp;/&nbsp;tratament profilactic</h3>
                     </div>
                     <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.profilaxie.preturi %}
+
                         <tr>
-                            <td>Detartraj cu ultrasunete / arcada</td><td><span class="price-right">100 RON</span></td>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
                         </tr>
+
+                        {% endfor %}
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-12">
+                <div class="shadow-pricing-table">
+                    <div class="table-header">
+                        <h3>Albirea dintilor</h3>
+                    </div>
+                    <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.albire.preturi %}
+
                         <tr>
-                            <td>Periaj profesional</td><td><span class="price-right">50 RON</span></td>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
                         </tr>
+
+                        {% endfor %}
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-12">
+                <div class="shadow-pricing-table">
+                    <div class="table-header">
+                        <h3>Odontoterapie</h3>
+                    </div>
+                    <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.odontoterapie.preturi %}
+
                         <tr>
-                            <td>AIR Flow</td><td><span class="price-right">100 RON</span></td>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
                         </tr>
+
+                        {% endfor %}
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-12">
+                <div class="shadow-pricing-table">
+                    <div class="table-header">
+                        <h3>Endodontie</h3>
+                    </div>
+                    <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.endodontie.preturi %}
+
+                        <tr>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-12">
+                <div class="shadow-pricing-table">
+                    <div class="table-header">
+                        <h3>Protetica dentara</h3>
+                    </div>
+                    <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.protetica.preturi %}
+
+                        <tr>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-12">
+                <div class="shadow-pricing-table">
+                    <div class="table-header">
+                        <h3>Lucrări protetice pe implant</h3>
+                    </div>
+                    <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.protetica2.preturi %}
+
+                        <tr>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
+                        </tr>
+
+                        {% endfor %}
+
                     </table>
                 </div>
             </div>

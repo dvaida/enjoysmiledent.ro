@@ -1,0 +1,17 @@
+preturi:
+  - nume: Detartraj cu ultrasunete /arcada
+    pret: 100
+  - nume: Periaj profesional
+    pret: 50
+  - nume: AIR Flow
+    pret: 100
+  - nume: Tratament de igienizare profesional, periaj profesional,airflow prophyjet ambele arcade
+    pret: 350
+  - nume: Determinare placa bacteriana și instructaj periaj
+    pret: 100
+  - nume: Desensibilizare (ambele arcade)
+    pret: 150
+  - nume: Fluorizare
+    pret: 100
+  - nume: Recalificare 6 luni (control periodic + igienizare)
+    pret: 250
