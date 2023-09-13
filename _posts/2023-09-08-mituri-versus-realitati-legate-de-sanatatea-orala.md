@@ -2,12 +2,12 @@
 layout: blog-entry
 title:  "Mituri versus Realităţi legate de sănătatea orală."
 short_description: Cu siguranţă ai auzit numeroase  concepţii legate de modul în care trebuie să-ţi îngrijeşti dinţii...
-image: https://source.unsplash.com/TqS6pLZ0X-8
+image: https://source.unsplash.com/sLrw_Cx6u_I
 ---
 
 ### Mituri versus Realităţi legate de sănătatea orală
 
-![](https://source.unsplash.com/TqS6pLZ0X-8)
+![](https://source.unsplash.com/sLrw_Cx6u_I)
 
 >Cu siguranţă ai auzit numeroase  concepţii legate de modul în care trebuie să-ţi îngrijeşti dinţii, ce alimente sunt necesar a fi consumate sau cât de des trebuie să consulţi un medic stomatolog.
 Toate aceste aspecte practicate greşit pot duce la daune ireversibile asupra dinţilor tăi.
