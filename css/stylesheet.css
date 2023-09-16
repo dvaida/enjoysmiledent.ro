@@ -2461,6 +2461,15 @@ hr.post-divider{
     line-height: 1.5;
 }
 
+.post-content p strong{
+    font-weight: bolder;
+}
+
+.post-content p em{
+    font-style: italic;
+    color: #856404;
+}
+
 .post-content .post-details p{
     margin-bottom: 0rem;
 }
@@ -2496,6 +2505,15 @@ hr.post-divider{
 
 .post-content a[href='red'] {
     color: #e95516;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.post-content a[href='blue'] {
+    color: #007bff;
     pointer-events: none;
     cursor: default;
     text-decoration: none;
