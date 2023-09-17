@@ -2461,11 +2461,11 @@ hr.post-divider{
     line-height: 1.5;
 }
 
-.post-content p strong{
+.post-content * strong{
     font-weight: bolder;
 }
 
-.post-content p em{
+.post-content * em{
     font-style: italic;
     color: #856404;
 }
