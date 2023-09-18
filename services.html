@@ -158,6 +158,42 @@ layout: default
                         </table>
                     </div>
                 </div>
+                <div class="col-md-12 col-lg-12">
+                    <div class="shadow-pricing-table">
+                        <div class="table-header">
+                            <h3>Pedodontie</h3>
+                        </div>
+                        <table class="table table-striped pricing-table">
+
+                            {% for item in site.data.pedodontie.preturi %}
+
+                            <tr>
+                                <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
+                            </tr>
+
+                            {% endfor %}
+
+                        </table>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-12">
+                    <div class="shadow-pricing-table">
+                        <div class="table-header">
+                            <h3>Ortodontie</h3>
+                        </div>
+                        <table class="table table-striped pricing-table">
+
+                            {% for item in site.data.ortodontie.preturi %}
+
+                            <tr>
+                                <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
+                            </tr>
+
+                            {% endfor %}
+
+                        </table>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

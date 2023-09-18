@@ -1,0 +1,143 @@
+preturi:
+  - nume: Consultaţie primară
+    pret: 150
+  - nume: Consultaţie post tratament
+    pret: 150
+  - nume: Amprente, model de studiu, plan de tratament (măsurători, interpretat teleradiografie de profil)
+    pret: 300
+  - nume: Scanare intraorală (pentru modele de studiu)
+    pret: 200
+  - nume: Modele printate
+    pret: 250-600
+  - nume: Montare în articulator
+    pret: 200
+  - nume: Înregistrare cu Arc Facial
+    pret: 150
+  - nume: Înregistrare Relație Centrică
+    pret: 150
+  - nume: Prezentare plan de tratament
+    pret: 200
+  - nume: Rediscutare plan de tratament
+    pret: 150
+  - nume: Set-up diagnostic digital
+    pret: 1000
+  - nume: Aparat fix (bracketuri metalice, pret per arcada)
+    pret: 3000
+  - nume: Aparat fix (bracketuri fizionomice Safir Ice, pret per arcada)
+    pret: 4500
+  - nume: Aparat fix (bracketuri metalice autoligaturante, pret per arcada)
+    pret: 4000
+  - nume: Aparat fix (bracketuri fizionomice autoligaturante, pret per arcada)
+    pret: 5000
+  - nume: Aparat fix segmentar (bracketuri metalice)
+    pret: 1500-2500
+  - nume: Intruzie (cu ancoraj scheletic, 1 sau 2 dinți)
+    pret: 1000-1500
+  - nume: Activare aparat fix (metalic, bimaxilar)
+    pret: 200
+  - nume: Activare aparat fix (metalic, monomaxilar)
+    pret: 150
+  - nume: Activare aparat fix (ceramic, bimaxilar)
+    pret: 250
+  - nume: Activare aparat fix (ceramic, monomaxilar)
+    pret: 200
+  - nume: Activare aparat fix (segmentar)
+    pret: 150
+  - nume: Activare aparat fix (cu arcuri fizionomice, bimaxilar)
+    pret: 300
+  - nume: Activare aparat fix (cu arcuri fizionomice, monomaxilar)
+    pret: 250
+  - nume: Colare bracket nou (metalic)
+    pret: 100
+  - nume: Colare bracket nou (ceramic)
+    pret: 200
+  - nume: Colare bracket nou (autoligaturant metalic)
+    pret: 150
+  - nume: Colare bracket nou (autoligaturant ceramic)
+    pret: 200
+  - nume: Recimentare inel
+    pret: 100
+  - nume: Disjunctor
+    pret: 1500-1700
+  - nume: Disjunctor (sinterizat pe 4 mini-implanturi)
+    pret: 3600
+  - nume: Disjunctor (sinterizat pe mini-implanturi cu inele)
+    pret: 3600
+  - nume: Distalizator (Fast back / Distal Jet - unilateral)
+    pret: 1700
+  - nume: Distalizator (Fast back / Distal Jet - bilateral)
+    pret: 2700
+  - nume: Mini-implant ortodontic vestibular
+    pret: 600
+  - nume: Mini-implant ortodontic palatinal
+    pret: 700
+  - nume: Bară palatinală (Gosgharian)
+    pret: 1000
+  - nume: Dispozitiv Nance
+    pret: 1100
+  - nume: Quad Helix
+    pret: 1000
+  - nume: Bară linguală
+    pret: 900
+  - nume: Contenţie fixă (monomaxilar)
+    pret: 600
+  - nume: Plăcuţă de contenţie (palatinală / linguală)
+    pret: 600
+  - nume: Gutieră de contenţie (superior / inferior, monomaxilar)
+    pret: 600
+  - nume: Gutieră de contenţie (cu deplasări dentare, monomaxilar)
+    pret: 700-800
+  - nume: Gutieră de contenţie (cu dinte acrilat)
+    pret: 900
+  - nume: Îndepărtare aparat fix (per arcadă)
+    pret: 300
+  - nume: Refacere gutieră contenție (superior / inferior, model existent)
+    pret: 400
+  - nume: Mentinător de spațiu fix
+    pret: 300-400
+  - nume: Bărbiţă cu capelină
+    pret: 700
+  - nume: Mască Delaire
+    pret: 800
+  - nume: Head Gear
+    pret: 700
+  - nume: Plăcuţă palatinală (fără şurub)
+    pret: 1100
+  - nume: Plăcuţă palatinală (cu şurub universal, în V, unidirecţional)
+    pret: 1200
+  - nume: Plăcuţă palatinală (cu şurub tridimensional)
+    pret: 1300
+  - nume: Plăcuţă palatinală (cu elemene funcţionale - platou drept, plan înclinat, scut lingual, gutiere)
+    pret: 1300
+  - nume: Monobloc
+    pret: 1400
+  - nume: Twin Block
+    pret: 1500
+  - nume: Gutieră ATM (acrilică din 3 bucați)
+    pret: 1350
+  - nume: Gutieră ATM (acrilică)
+    pret: 1350
+  - nume: Gutieră ATM (rigid-elastică)
+    pret: 1400
+  - nume: Gutieră ATM (digitală printată)
+    pret: 2000
+  - nume: Gutieră ATM (digitală printată-3 segm)
+    pret: 2000
+  - nume: Gutieră ATM (frezată)
+    pret: 2000
+  - nume: Control gutieră ATM
+    pret: 120
+  - nume: Aplicare jig
+    pret: 100
+  - nume: Colare indirectă (monomaxilar)
+    pret: 2000
+  - nume: Reparaţie (aparat mobilizabil)
+    pret: 150-300
+  - nume: Readaptare aparat
+    pret: 300-400
+  - nume: Wrapped Around
+    pret: 850
+  - nume: Clear Aligner (set 3 gutiere)
+    pret: 2500
+  - nume: Tratament ortodontic
+    pret: 10000-20000
