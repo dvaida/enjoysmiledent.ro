@@ -52,7 +52,7 @@ rănire cauzează afte sau gingivite.
 
 Pulberea utilizată în cabinet pentru înlăturarea coloraţiilor extrinseci deşi are în
 componenţă şi bicarbonat este o mixtură specială ce conţine şi alte ingrediente benefice
-zambetului tău.
+zâmbetului tău.
 
 * [“M-a tras curentul”](red)
 
