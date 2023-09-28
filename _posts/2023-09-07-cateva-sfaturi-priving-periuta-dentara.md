@@ -3,6 +3,7 @@ layout: blog-entry
 title:  "Câteva sfaturi privind periuţa ta dentară."
 short_description: Te-ai întrebat vreodată dacă periuţa dentară recent cumpărată este una potrivită şi eficientă?
 image: https://source.unsplash.com/BPDJLWz_Bog
+author: Dr. Julieta Răvnic
 ---
 
 ### Câteva sfaturi privind periuţa ta dentară.

@@ -3,6 +3,7 @@ layout: blog-entry
 title:  "Mentinerea Sanatatii Cavitatii Orale"
 short_description: Cu toții vrem să ne menținem dinții naturali pe tot parcursul vieții sau măcar pentru o perioadă cât mai lungă de timp.
 image: https://source.unsplash.com/c8mlkovOYB4
+author: Dr. Julieta Răvnic
 ---
 
 ### Mentinerea Sanatatii Cavitatii Orale
