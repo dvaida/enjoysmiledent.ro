@@ -21,13 +21,13 @@ preturi:
     pret: 150
   - nume: Set-up diagnostic digital
     pret: 1000
-  - nume: Aparat fix (bracketuri metalice, pret per arcada)
+  - nume: Aparat fix (bracketuri metalice, preț per arcadă)
     pret: 3000
-  - nume: Aparat fix (bracketuri fizionomice Safir Ice, pret per arcada)
+  - nume: Aparat fix (bracketuri fizionomice Safir Ice, preț per arcadă)
     pret: 4500
-  - nume: Aparat fix (bracketuri metalice autoligaturante, pret per arcada)
+  - nume: Aparat fix (bracketuri metalice autoligaturante, preț per arcadă)
     pret: 4000
-  - nume: Aparat fix (bracketuri fizionomice autoligaturante, pret per arcada)
+  - nume: Aparat fix (bracketuri fizionomice autoligaturante, preț per arcadă)
     pret: 5000
   - nume: Aparat fix segmentar (bracketuri metalice)
     pret: 1500-2500

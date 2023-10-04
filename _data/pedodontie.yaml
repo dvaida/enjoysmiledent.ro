@@ -1,19 +1,19 @@
 preturi:
-  - nume: Sedinta consultatie / socializare
+  - nume: Sedință consultație / socializare
     pret: 100
-  - nume: Fluorizare topica/ arcada
+  - nume: Fluorizare topică / arcadă
     pret: 70
-  - nume: Periai profesional / revelator placa
+  - nume: Periai profesional / revelator placă
     pret: 120
   - nume: Sigilare dinte temporar
     pret: 80
   - nume: Sigilare dinte permanent
     pret: 100
-  - nume: Sigilare extinsa dinte permanent
+  - nume: Sigilare extinsă dinte permanent
     pret: 180
-  - nume: Obturatie dinte temporar (Equia HT)
+  - nume: Obturație dinte temporar (Equia HT)
     pret: 150-200
-  - nume: Obturate dinte permanent (Equia HT)
+  - nume: Obturație dinte permanent (Equia HT)
     pret: 200-250
   - nume: Coafaj indirect / dinte temporar
     pret: 100
@@ -21,15 +21,15 @@ preturi:
     pret: 150
   - nume: Pansament devitalizant / obturator provizoriu
     pret: 120
-  - nume: Pulpectomie vitala dinte temporar/ obturator radiculara
+  - nume: Pulpectomie vitală dinte temporar / obturator radiculară
     pret: 150-200
-  - nume: Drenai endodontic
+  - nume: Drenaj endodontic
     pret: 150
-  - nume: Extractie dinte temporar cu mobilitate
+  - nume: Extracție dinte temporar cu mobilitate
     pret: 80
-  - nume: Extractie dinte temporar cu anestezie
+  - nume: Extracție dinte temporar cu anestezie
     pret: 150
-  - nume: Reconstructie coronară cu corona pedodontica compozit
+  - nume: Reconstrucție coronară cu coroană pedodontică compozit
     pret: 250
-  - nume: Reconstructie coronară cu coroana pedodontica metalică
+  - nume: Reconstructie coronară cu coroană pedodontică metalică
     pret: 250

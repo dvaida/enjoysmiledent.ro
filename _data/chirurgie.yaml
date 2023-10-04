@@ -3,13 +3,13 @@ preturi:
     pret: 50
   - nume: Incizia și drenajul endooral al abceselor dentare
     pret: 150-200
-  - nume: Extractie monoradiculari
+  - nume: Extracție monoradiculari
     pret: 150-200
-  - nume: Extractie premolari
+  - nume: Extracție premolari
     pret: 200-250
-  - nume: Extractie molari
+  - nume: Extracție molari
     pret: 250-300
-  - nume: Extractie molari minte prezenți pe arcada
+  - nume: Extracție molari minte prezenți pe arcadă
     pret: 300-350
   - nume: Odontectomie
     pret: 500
@@ -17,35 +17,35 @@ preturi:
     pret: 350
   - nume: Gingivectomie
     pret: 200
-  - nume: Decapusonare
+  - nume: Decapușonare
     pret: 150
-  - nume: Tratament alveolita / pericoronarita
+  - nume: Tratament alveolită / pericoronarită
     pret: 150
-  - nume: Rezectie apicală frontali
+  - nume: Rezecție apicală frontali
     pret: 400
-  - nume: Rezectie apicală premolari
+  - nume: Rezecție apicală premolari
     pret: 450
-  - nume: Rezectie apicală molari
+  - nume: Rezecție apicală molari
     pret: 550
   - nume: Chistectomie
     pret: 400-600
-  - nume: Regularizarea crestei alveolare / hemiarcada
+  - nume: Regularizarea crestei alveolare / hemiarcadă
     pret: 350
   - nume: Premolarizare
     pret: 300
-  - nume: Excizie hiperplaziilor mucoase
+  - nume: Excizia hiperplaziilor mucoase
     pret: 350
   - nume: Vestibuloplastie
     pret: 500
-  - nume: Grefa gingivala
+  - nume: Grefă gingivală
     pret: 350
-  - nume: Sinus lift + adiție osoasa
+  - nume: Sinus lift + adiție osoasă
     pret: 1500-2500
   - nume: Aplicare mini-implant ortodontic
     pret: 600
   - nume: Aplicare mini-implant ortodontic palatinal
     pret: 700
-  - nume: Plăcută de ancoraj
+  - nume: Plăcuță de ancoraj
     pret: 1500
   - nume: Implant megagen
     pret: 2000
@@ -55,7 +55,7 @@ preturi:
     pret: 100
   - nume: Explantare ( îndepărtarea chirurgicală implant )
     pret: 500
-  - nume: Sutura
+  - nume: Sutură
     pret: 100
 
 

@@ -1,15 +1,15 @@
 preturi:
-  - nume: Tratament endodontic rotativ complet dinti monoradiculari
+  - nume: Tratament endodontic rotativ complet dinți monoradiculari
     pret: 250-300
-  - nume: Tratament endodontic rotativ complet dinti pluriradiculari
+  - nume: Tratament endodontic rotativ complet dinți pluriradiculari
     pret: 400
-  - nume: Obturatie radiculara provizorie
+  - nume: Obturație radiculara provizorie
     pret: 100
   - nume: Dezobturare canal
     pret: 150
-  - nume: Îndepărtare DCR / pivot fibra sticla
+  - nume: Îndepărtare DCR / pivot fibră sticlă
     pret: 350
-  - nume: Reconstrucție preendodontica redusă
+  - nume: Reconstrucție preendodontică redusă
     pret: 150
   - nume: Aplicare biociment MTA (închidere perforație, închidere apex)
     pret: 100
