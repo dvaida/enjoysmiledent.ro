@@ -9,6 +9,21 @@
             gtag('js', new Date());
 
             gtag('config', 'G-KLFKRZEFKW');
+            gtag('config', 'AW-11265409304');
+        </script>
+        <script>
+            function gtag_report_conversion(url) {
+                var callback = function () {
+                    if (typeof(url) != 'undefined') {
+                        window.location = url;
+                    }
+                };
+                gtag('event', 'conversion', {
+                    'send_to': 'AW-11265409304/1E4DCOiq1uwYEJiC4vsp',
+                    'event_callback': callback
+                });
+                return false;
+            }
         </script>
 		<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -67,7 +82,7 @@
         <div class="top-header">
             <div class="container">
                 <div class="header-left">
-                    <p style="padding-right: 43px"><strong>Telefon: </strong><a href="tel: +40770139255" class="topbar">0770 139 255</a></p>
+                    <p style="padding-right: 43px"><strong>Telefon: </strong><a onclick="gtag_report_conversion();" href="tel: +40770139255" class="topbar">0770 139 255</a></p>
                 </div>
                 <div class="header-right">
                    <div class="ht-right-email">
@@ -176,7 +191,7 @@
                     <div class="span-fi">
                         <div class="fi-fas"><i class="fas fa-phone"></i></div>
                         <div class="fi-caption">
-                            <p>Telefon: <a href="tel: +40770139255"> 0770 139 255</a></p>
+                            <p>Telefon: <a onclick="gtag_report_conversion();" href="tel: +40770139255"> 0770 139 255</a></p>
                         </div>
                     </div> 
                     <div class="span-fi">
