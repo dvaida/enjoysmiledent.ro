@@ -4,6 +4,7 @@ title:  "Câteva sfaturi privind periuţa ta dentară."
 short_description: Te-ai întrebat vreodată dacă periuţa dentară recent cumpărată este una potrivită şi eficientă?
 image: https://source.unsplash.com/BPDJLWz_Bog
 author: Dr. Maria Cristescu
+last_modified_at: 2023-10-18T00:00:00+00:00
 ---
 
 ### Câteva sfaturi privind periuţa ta dentară.

@@ -4,7 +4,7 @@ title:  "Mituri versus Realităţi legate de sănătatea orală."
 short_description: Cu siguranţă ai auzit numeroase  concepţii legate de modul în care trebuie să-ţi îngrijeşti dinţii...
 image: https://source.unsplash.com/y3q-2m9zBoA
 author: Dr. Maria Cristescu
-last_modified_at: 2023-10-15T00:00:00+00:00
+last_modified_at: 2023-10-18T00:00:00+00:00
 ---
 
 ### Mituri versus Realităţi legate de sănătatea orală
