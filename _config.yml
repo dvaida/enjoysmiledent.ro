@@ -1,4 +1,8 @@
 url: 'https://enjoysmiledent.ro'
+collections:
+  posts:
+    output: true
+    permalink: /blog/:name
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
