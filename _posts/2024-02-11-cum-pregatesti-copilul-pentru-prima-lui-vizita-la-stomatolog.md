@@ -1,6 +1,6 @@
 ---
 layout: blog-entry
-title:  "Cum îţi pregăteşti copilul pentru prima lui vizită la medicul stomatolog. Dar şi pentru următoarele."
+title:  "Cum pregăteşti copilul pentru prima lui vizită la stomatolog."
 short_description: Vizita la stomatolog nu ar trebui să fie o povară pentru nimeni, cu atât mai puţin pentru micul pacient.
 image: https://source.unsplash.com/IoNE4kfoPR0
 author: Dr. Maria Cristescu
