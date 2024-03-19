@@ -1,83 +1,50 @@
 ---
 layout: blog-entry
-title:  "Cum pregăteşti copilul pentru prima lui vizită la stomatolog."
-short_description: Vizita la stomatolog nu ar trebui să fie o povară pentru nimeni, cu atât mai puţin pentru micul pacient.
-image: https://source.unsplash.com/IoNE4kfoPR0
+title:  "Despre îngrijirea orală a copilului tău."
+short_description: Pentru a avea grijă de sănătatea orală a copilului tău, trebuie să te implici cu adevărat şi cu regularitate.
+image: https://source.unsplash.com/TGZoCRvv7IE
 author: Dr. Maria Cristescu
-last_modified_at: 2024-02-11T12:30:00+00:00
+last_modified_at: 2024-03-19T13:30:00+00:00
 ---
 
-### Cum îţi pregăteşti copilul pentru prima lui vizită la medicul stomatolog. Dar şi pentru următoarele.
+### Despre îngrijirea orală a copilului tău.
 
-![](https://source.unsplash.com/IoNE4kfoPR0)
+![](https://source.unsplash.com/TGZoCRvv7IE)
 
-> Vizita la stomatolog nu ar trebui să fie o povară pentru nimeni, cu atât mai puţin pentru micul pacient.
+>Pentru a avea grijă de sănătatea orală a copilului tău, trebuie să te implici cu adevărat şi cu regularitate!
 
-În acest context tu ca părinte ai un rol extrem de important în a-i crea acestuia o  percepţie cât mai plăcută vizavi de această “experienţă” încă de la vârste foarte fragede.
+### 0 - 3 Ani
 
-Mai jos ai câteva sugestii:
+* Igiena orală a copilului tău trebuie să înceapă încă de dinaintea apariţiei primilor dinţi. Deşi nu se văd, ei sunt acolo. Cu o compresă îmbibată în ser fiziologic curăţă blând gingiile bebeluşului tău de două ori pe zi: dimineaţa după prima alăptare, iar apoi seara înainte de culcare.
+* Odată cu apariţia primilor dinţi (cam după 6 luni) începe periajul dentar de două ori pe zi. Utilizează o perie moale cu un capăt mic şi cu o cantitate de pastă de mărimea unui bob de orez fără fluor (în caz de înghiţire), plus apă. Poţi începe utilizarea aţei dentare când primul dinte are deja un dinte vecin.
 
-* [Fii pozitiv](blue)
-
-Nimic nu se compară cu exemplul pe care i-l dai copilului tău.
-
-  * Dacă tu însuţi ai o teamă de dentist nu lăsa ca şi copilul tău să vadă asta.
-  * Descrie în termeni pozitivi mersul la stomatolog şi nu-l utiliza ca şi o ameninţare dacă copilul nu are grijă de dinţii săi.
-
-* [Citiţi cărţi sau urmăriţi împreună clipuri animate despre mersul la dentist](blue)
-
-Atunci când copilul îşi va vedea personajele preferate mergând cu drag la dentist, sigur impactul asupra lui va fi unul pozitiv.  Astfel,  în mintea lui se va creea o imagine despre ce urmează să se întâmple, nemaifiind pus in faţa unei situaţii noi, necunoscute.
-
-* [Jucaţi împreună un joc de rol](blue)
-
-Dacă copilul tău iubeşte astfel de jocuri, cu atât mai bine. Poţi fi chiar tu dentistul imaginar al copilului tău. Îi poţi număra dinţii, peria, vorbi despre cât de importanţi sunt dinţii noştri, toate acestea pentru a-i insufla o senzaţie plăcută.
-
-Iar apoi, schimbaţi rolurile. Pacientul poţi fi tu sau o jucărie preferată, pe care o poate aduce cu el când vine la cabinet.
-
-* [Vino cu copilul la propria programare (dacă ai una)](blue)
-
-Dar asta înainte de programarea copilului tău. Astfel, îi vei oferi o idee şi mai concretă la ce să se aştepte. Va avea ocazia să se familiarizeze puţin cu mediul din cabinet, cu oamenii, cu toate zgomotele şi mirosurile înainte de propria lui vizită.
-
-* [Programarea să nu interfere cu programul lui de somn sau de masă](blue)
-
-Este bine ca dispoziţia copilului să fie una bună la primul control. Un copil somnoros sau înfometat va fi mai puţin tolerant faţă de situaţiile noi şi nu la fel de cooperant.
-
-Ar fi de preferat o programare de dimineaţă.
-
-* [Explică-i pe înţelesul lui la ce să se aştepte](blue)
-
-Poţi să începi prin a-i spune că un doctor drăguţ se va uita la dinţii lui, îi va număra, îi va peria şi-i va explica cum să aibă grijă de ei. 
-
-Răspunde-i la toate întrebările, dar nu intra în prea multe detalii .
-
-Dacă prima vizită a avut un succes pentru următoarele programări reaminteşte-i aspectele pozitive care au avut loc la prima, de exemplu:
-
-> _Nu a durut nimic._
+> !!! De reţinut
 > 
-> _Peria de dinţi a gâdilat puţin , iar pasta a avut un gust grozav._
-> 
-> _Medicul ţi-a numărat dinţii, iar acum ştim câţi dinţi ai._
-> 
-> _Azi ai primit un premiu pe care l-ai meritat, iar data viitoare vei mai primi unul._
+> Nu-ţi lăsa copilul să adoarmă cu biberonul în gură. Expunerea dinţilor mai mult timp la băuturile conţinute în sticlă (ceai îndulcit, suc, lapte) va duce la apariţia cariei dentare; aşa numita “carie de biberon” cu o evoluţie rapidă . Cei mai afectaţi sunt dinţii din faţă.
+>
+> După vârsta de 6 luni se poate trece la utilizarea unei sticle cu pai sau a celei cu orificiu de scurgeretare. Acestea vor preveni acumularea de lichid în jurul dinţilor copilului tău.
+>
+> Până la 1 an, vor avea abilitățile motorii și coordonarea pentru a folosi singuri paharul.
 
-Şi nu te zgârci cu laudele la adresa comportamentului lui.
+### 3 - 7 Ani
 
-Este important să ai aşteptări rezonabile de la copilul tău. Dacă nu va coopera   din prima nu înseamnă că următoarele vizite vor fi un insucces. Cu răbdare şi încredere se va ajunge la comportamentul dorit.
+* Periază dinţii copilului tău de două ori pe zi cu o periuţă moale de dimensiuni ceva mai mari şi pastă de dinţi de mărimea unui bob de mazăre cu un conţinut de fluor; până la această vârstă copilul a deprins capacitatea de a scuipa. După periaj se evită clătirea cu apă pentru  a-i perimite fluorului să acţioneze.
 
-* [Programează prima vizită cât mai curând posibil](blue)
+  Conţinutul de fluor va fi mărit odată cu creşterea  copilului şi cu necesarul individual stabilit de medicul dentist.
 
-**Această sugestie este lăsată la urmă din simplul fapt că este poate cea mai importantă!**
+* Ajută-ţi copilul să se spele pe dinţi până când acesta dobândeşte dexteritatea realizării unui periaj corect. Asta se întamplă în jurul vârstei de 7-8 ani, chiar si 10. După care, e suficient să-l supraveghezi şi eventual să-l verifici la finalul periajului.
+* Învaţă-l să utilizeze mijloacele auxiliare de igienă orală, să-şi perieze şi limba şi mai ales să deprindă obiceiul unu periaj realizat întodeauna seara înainte de culcare.
 
-Ideal prima vizită a copilului la stomatolog ar trebui să aibă loc imediat după ce apar primii dinţi. De obicei in jurul vârstei de un an, iar apoi controalele să fie regulate, cam la 3-6 luni.
 
-Venind devreme şi mai apoi regulat cu copilul la stomatolog îl scuteşti atât pe el ,cât şi pe tine de situaţii mai puţin plăcute.
+#### [Cum să îţi ajuţi copilul să îşi perieze dinţii într-un mod corect](red)
 
-Vei bifa multe aspect pozitive, printre care:
+* Ghidează-i mâna astfel încât să simtă mişcarea corectă.
+* Utilizaţi o oglindă pentru a vedea exact mişcările pe care le face şi care sunt dinţii pe care-i periază.
+* Puteţi contoriza cele 2 minute necesare periajului prin utilizarea unui cronometru, a unei clepsidre sau a unei melodii preferate.
 
- * *Îl familiarizezi încă de la o vârsta fragedă cu mediul din cabinet, astfel încât peste ani acest loc va deveni pentru el ceva normal şi cel mai important va deveni conştient de sănătatea dinţilor săi.*
+#### Ca nişte sfaturi de final…
 
- * *Medicul poate descoperi la timp anumite probleme, înainte ca acestea să se complice şi să provoace durere.*
+* Realizaţi igiena orală împreună. Cel mai bun exemplu eşti chiar tu ca şi părinte.
+* Îngrijirea orală timpurie ajută la stabilirea unor obiceiuri dentare bune pe măsură ce copilul tău crește. Igiena orală deficitară poate duce la infecții, boli sau alte probleme ale dinților.
+* Nu uita de prima vizită la medicul stomatolog odată cu apariţia primilor dinţi, iar apoi de controalele periodice la 3-6 luni.
 
- * *Dacă problemele sunt simple şi tratamentul este simplu , dar si rapid (în limita răbdării oricărui copil).*
-
-> Cea mai mare greşeală pe care părinţii o fac este să aducă copilul la prima lui vizită la medicul stomatolog atunci când deja acuză dureri şi are o dispoziţie proastă. Şansele ca el sa colaboreze din prima sunt foarte mici.
