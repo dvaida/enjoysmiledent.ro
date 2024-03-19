@@ -35,6 +35,7 @@ last_modified_at: 2024-03-19T13:30:00+00:00
 * Ajută-ţi copilul să se spele pe dinţi până când acesta dobândeşte dexteritatea realizării unui periaj corect. Asta se întamplă în jurul vârstei de 7-8 ani, chiar si 10. După care, e suficient să-l supraveghezi şi eventual să-l verifici la finalul periajului.
 * Învaţă-l să utilizeze mijloacele auxiliare de igienă orală, să-şi perieze şi limba şi mai ales să deprindă obiceiul unu periaj realizat întodeauna seara înainte de culcare.
 
+<BR>
 
 #### [Cum să îţi ajuţi copilul să îşi perieze dinţii într-un mod corect](red)
 
@@ -42,6 +43,7 @@ last_modified_at: 2024-03-19T13:30:00+00:00
 * Utilizaţi o oglindă pentru a vedea exact mişcările pe care le face şi care sunt dinţii pe care-i periază.
 * Puteţi contoriza cele 2 minute necesare periajului prin utilizarea unui cronometru, a unei clepsidre sau a unei melodii preferate.
 
+<BR>
 #### Ca nişte sfaturi de final…
 
 * Realizaţi igiena orală împreună. Cel mai bun exemplu eşti chiar tu ca şi părinte.
