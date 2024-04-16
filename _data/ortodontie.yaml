@@ -20,7 +20,7 @@ preturi:
   - nume: Rediscutare plan de tratament
     pret: 150
   - nume: Set-up diagnostic digital
-    pret: 1000
+    pret: 1200
   - nume: Aparat fix (bracketuri metalice, preț per arcadă)
     pret: 3000
   - nume: Aparat fix (bracketuri fizionomice Safir Ice, preț per arcadă)
@@ -31,6 +31,8 @@ preturi:
     pret: 5000
   - nume: Aparat fix segmentar (bracketuri metalice)
     pret: 1500-2500
+  - nume: Aparat fix metalic tehnica Damon (bracketuri autoligaturante, preț per arcadă)
+    pret: 6500
   - nume: Intruzie (cu ancoraj scheletic, 1 sau 2 dinți)
     pret: 1000-1500
   - nume: Activare aparat fix (metalic, bimaxilar)
@@ -58,11 +60,17 @@ preturi:
   - nume: Recimentare inel
     pret: 100
   - nume: Disjunctor
-    pret: 1500-1700
+    pret: 2000
   - nume: Disjunctor (sinterizat pe 4 mini-implanturi)
     pret: 3600
   - nume: Disjunctor (sinterizat pe mini-implanturi cu inele)
     pret: 3600
+  - nume: Disjunctor (sinterizat all around)
+    pret: 2500
+  - nume: Disjunctor cu sprijin pe patru mini-implanturi
+    pret: 4000
+  - nume: Distalizator bilateral cu sprijin pe mini-implanturi
+    pret: 4000
   - nume: Distalizator (Fast back / Distal Jet - unilateral)
     pret: 1700
   - nume: Distalizator (Fast back / Distal Jet - bilateral)

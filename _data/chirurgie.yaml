@@ -2,15 +2,15 @@ preturi:
   - nume: Anestezie
     pret: 50
   - nume: Incizia și drenajul endooral al abceselor dentare
-    pret: 150-200
+    pret: 200
   - nume: Extracție monoradiculari
-    pret: 150-200
+    pret: 200
   - nume: Extracție premolari
-    pret: 200-250
+    pret: 250
   - nume: Extracție molari
-    pret: 250-300
+    pret: 300
   - nume: Extracție molari minte prezenți pe arcadă
-    pret: 300-350
+    pret: 350
   - nume: Odontectomie
     pret: 500
   - nume: Descoperire canin inclus
@@ -28,7 +28,7 @@ preturi:
   - nume: Rezecție apicală molari
     pret: 550
   - nume: Chistectomie
-    pret: 400-600
+    pret: 600
   - nume: Regularizarea crestei alveolare / hemiarcadă
     pret: 350
   - nume: Premolarizare
@@ -40,7 +40,7 @@ preturi:
   - nume: Grefă gingivală
     pret: 350
   - nume: Sinus lift + adiție osoasă
-    pret: 1500-2500
+    pret: 2500
   - nume: Aplicare mini-implant ortodontic
     pret: 600
   - nume: Aplicare mini-implant ortodontic palatinal

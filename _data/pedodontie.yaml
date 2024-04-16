@@ -8,7 +8,7 @@ preturi:
   - nume: Sigilare dinte temporar
     pret: 80
   - nume: Sigilare dinte permanent
-    pret: 100
+    pret: 150
   - nume: Sigilare extinsă dinte permanent
     pret: 180
   - nume: Obturație dinte temporar (Equia HT)
@@ -19,8 +19,6 @@ preturi:
     pret: 100
   - nume: Coafai direct / dinte temporar
     pret: 150
-  - nume: Pansament devitalizant / obturator provizoriu
-    pret: 120
   - nume: Pulpectomie vitală dinte temporar / obturator radiculară
     pret: 150-200
   - nume: Drenaj endodontic

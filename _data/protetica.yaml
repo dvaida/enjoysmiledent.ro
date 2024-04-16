@@ -1,6 +1,10 @@
 preturi:
+  - nume: Gutieră bruxism
+    pret: 1000
   - nume: Ablație lucrare / dinte
-    pret: 50-100
+    pret: 100
+  - nume: Model de lucru printat
+    pret: 250
   - nume: Coroană acrilică provizorie
     pret: 100
   - nume: Coroană PMMA (provizorie de lungă durată)
@@ -27,8 +31,14 @@ preturi:
     pret: 1800
   - nume: Reparație proteză
     pret: 300
+  - nume: Rebazare proteză
+    pret: 400
   - nume: Proteză scheletată (cu diferite sisteme speciale / arcadă - partea mobilă; prețul se stabilește in funcție de elementele speciale) incepând de la
     pret: 3500
+  - nume: Fațetă ceramică pe masă refractară (feldspatică)
+    pret: 1600
+  - nume: Bijuterii dentare
+    pret: 400
   - nume: DCR turnat
     pret: 350
   - nume: DCR zirconiu
