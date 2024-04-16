@@ -31,7 +31,9 @@ preturi:
     pret: 5000
   - nume: Aparat fix segmentar (bracketuri metalice)
     pret: 1500-2500
-  - nume: Aparat fix metalic tehnica Damon (bracketuri autoligaturante, preț per arcadă)
+  - nume: Aparat fix metalic tehnică Damon (bracketuri autoligaturante, preț per arcadă)
+    pret: 5500
+  - nume: Aparat fzionomic tehnică Damon (bracketuri autoligaturante, preț per arcadă)
     pret: 6500
   - nume: Intruzie (cu ancoraj scheletic, 1 sau 2 dinți)
     pret: 1000-1500
