@@ -23,6 +23,24 @@ canonical_url: servicii/
             <div class="col-md-12 col-lg-12">
                 <div class="shadow-pricing-table">
                     <div class="table-header">
+                        <h3>Tratamente laser</h3>
+                    </div>
+                    <table class="table table-striped pricing-table">
+
+                        {% for item in site.data.laser.preturi %}
+
+                        <tr>
+                            <td>{{ item.nume }}</td><td><span class="price-right">{{ item.pret }}&nbsp;RON</span></td>
+                        </tr>
+
+                        {% endfor %}
+
+                    </table>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-12">
+                <div class="shadow-pricing-table">
+                    <div class="table-header">
                         <h3>Consultație stomatologică&nbsp;/&nbsp;control</h3>
                     </div>
                     <table class="table table-striped pricing-table">
