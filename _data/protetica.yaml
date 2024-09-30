@@ -19,8 +19,10 @@ preturi:
     pret: 1500
   - nume: Inlay, onlay, tabletop Emax
     pret: 1200
-  - nume: Cimentare / element
-    pret: 50
+  - nume: Cimentare adezivă / element
+    pret: 100
+  - nume: Cimentare lucrare veche / element
+    pret: 150
   - nume: Mock-up direct dinte
     pret: 100
   - nume: Mock-up + wax-up dinte
@@ -33,6 +35,8 @@ preturi:
     pret: 300
   - nume: Rebazare proteză
     pret: 400
+  - nume: Proteză scheletată clasică
+    pret: 3000
   - nume: Proteză scheletată (cu diferite sisteme speciale / arcadă - partea mobilă; prețul se stabilește in funcție de elementele speciale) incepând de la
     pret: 3500
   - nume: Fațetă ceramică pe masă refractară (feldspatică)
@@ -40,7 +44,7 @@ preturi:
   - nume: Bijuterii dentare
     pret: 400
   - nume: DCR turnat
-    pret: 350
+    pret: 400
   - nume: DCR zirconiu
     pret: 600
 

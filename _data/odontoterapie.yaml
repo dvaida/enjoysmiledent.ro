@@ -5,10 +5,20 @@ preturi:
     pret: 300
   - nume: Obturație compozit fizionomic molari
     pret: 300
+  - nume: Obturație compozit fotopolimerizabil frontali
+    pret: 350
+  - nume: Obturație compozit fotopolimerizabil premolari
+    pret: 350
+  - nume: Obturație compozit fotopolimerizabil molari
+    pret: 400
+  - nume: Obturație compozit fotopolimerizabil cavitate atipică
+    pret: 450
   - nume: Obturație MOD cavitate atipică
     pret: 350
   - nume: Reconstrucție coronară (compozit fotopolimerizabil + pivot fibră sticlă)
     pret: 400
+  - nume: Reconstrucție coronară compozit injectat
+    pret: 600
   - nume: Obturație glasionomer
     pret: 250
   - nume: Obturație provizorie
@@ -17,3 +27,5 @@ preturi:
     pret: 250
   - nume: Fațetare directă
     pret: 350
+  - nume: Pansament devitalizant
+    pret: 150

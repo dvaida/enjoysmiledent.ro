@@ -8,7 +8,7 @@ preturi:
   - nume: Extracție premolari
     pret: 250
   - nume: Extracție molari
-    pret: 300
+    pret: 350
   - nume: Extracție molari minte prezenți pe arcadă
     pret: 350
   - nume: Odontectomie
@@ -52,10 +52,12 @@ preturi:
   - nume: Implant Strauman Blx.
     pret: 2500
   - nume: Descoperire implant dentar și aplicare șurub de vindecare
-    pret: 100
+    pret: 150
   - nume: Explantare ( îndepărtarea chirurgicală implant )
     pret: 500
   - nume: Sutură
+    pret: 100
+  - nume: Aplicare con colagen postextracțional
     pret: 100
 
 
