@@ -2035,29 +2035,34 @@ a.active:after {
 .ic-top{
     position: relative;
     margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
 }
-    
+
 .ic-top h3{
+    flex: 1;
+    min-width: 0;
+    margin: 0;
     font-size: 18px;
     font-weight: 600;
     color: #002642;
     line-height: 1.4;
     -webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
-} 
-    
+}
+
 .thumbnail-box:hover h3{
     color: #3AB3DF;
 }
 
 .post-date{
+    flex-shrink: 0;
     width: 55px;
     height: 50px;
     background-color: #eb662d;
     text-align: center;
     padding: 15px 10px;
-    float: left;
-    margin-right: 10px;
 }
 
 .post-date p{
