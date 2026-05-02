@@ -1,8 +1,8 @@
 preturi:
   - nume: Consultaţie primară
-    pret: 150
+    pret: 200
   - nume: Consultaţie post tratament
-    pret: 150
+    pret: 200
   - nume: Amprente, model de studiu, plan de tratament (măsurători, interpretat teleradiografie de profil)
     pret: 300
   - nume: Scanare intraorală (pentru modele de studiu)
@@ -20,17 +20,17 @@ preturi:
   - nume: Rediscutare plan de tratament
     pret: 150
   - nume: Set-up diagnostic digital
-    pret: 1200
+    pret: 1300
   - nume: Aparat fix (bracketuri metalice, preț per arcadă)
-    pret: 3000
+    pret: 4000
   - nume: Aparat fix (bracketuri fizionomice Safir Ice, preț per arcadă)
-    pret: 4500
+    pret: 6000
   - nume: Aparat fix (bracketuri metalice autoligaturante, preț per arcadă)
     pret: 4000
   - nume: Aparat fix (bracketuri fizionomice autoligaturante, preț per arcadă)
-    pret: 5000
+    pret: 14000
   - nume: Aparat fix segmentar (bracketuri metalice)
-    pret: 1500-2500
+    pret: 2500-3000
   - nume: Aparat fix metalic tehnică Damon (bracketuri autoligaturante, preț per arcadă)
     pret: 5500
   - nume: Aparat fzionomic tehnică Damon (bracketuri autoligaturante, preț per arcadă)
@@ -38,19 +38,19 @@ preturi:
   - nume: Intruzie (cu ancoraj scheletic, 1 sau 2 dinți)
     pret: 1000-1500
   - nume: Activare aparat fix (metalic, bimaxilar)
-    pret: 200
+    pret: 250
   - nume: Activare aparat fix (metalic, monomaxilar)
-    pret: 150
-  - nume: Activare aparat fix (ceramic, bimaxilar)
-    pret: 250
-  - nume: Activare aparat fix (ceramic, monomaxilar)
     pret: 200
-  - nume: Activare aparat fix (segmentar)
-    pret: 150
-  - nume: Activare aparat fix (cu arcuri fizionomice, bimaxilar)
+  - nume: Activare aparat fix (ceramic, bimaxilar)
     pret: 300
-  - nume: Activare aparat fix (cu arcuri fizionomice, monomaxilar)
+  - nume: Activare aparat fix (ceramic, monomaxilar)
     pret: 250
+  - nume: Activare aparat fix (segmentar)
+    pret: 200
+  - nume: Activare aparat fix (cu arcuri fizionomice, bimaxilar)
+    pret: 350
+  - nume: Activare aparat fix (cu arcuri fizionomice, monomaxilar)
+    pret: 350
   - nume: Colare bracket nou (metalic)
     pret: 100
   - nume: Colare bracket nou (ceramic)
@@ -66,9 +66,9 @@ preturi:
   - nume: Disjunctor (sinterizat pe 4 mini-implanturi)
     pret: 3600
   - nume: Disjunctor (sinterizat pe mini-implanturi cu inele)
-    pret: 3600
+    pret: 5000
   - nume: Disjunctor (sinterizat all around)
-    pret: 2500
+    pret: 3000
   - nume: Disjunctor cu sprijin pe patru mini-implanturi
     pret: 4000
   - nume: Distalizator bilateral cu sprijin pe mini-implanturi

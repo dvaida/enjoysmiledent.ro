@@ -1,23 +1,23 @@
 preturi:
-  - nume: Gutieră bruxism
-    pret: 1000
   - nume: Ablație lucrare / dinte
     pret: 100
   - nume: Model de lucru printat
     pret: 250
-  - nume: Coroană acrilică provizorie
+  - nume: Coroană acrilică provizorie (scutan)
     pret: 100
-  - nume: Coroană PMMA (provizorie de lungă durată)
-    pret: 280
+  - nume: Coroană acrilică provizorie de lungă durată PMMA
+    pret: 300
   - nume: Coroană metalo-ceramică
     pret: 800
-  - nume: Coroana zirconiu + ceramică
+  - nume: Coroană zirconiu + ceramică
     pret: 1400
-  - nume: Coroană E-max (ceramică presată)
+  - nume: Coroană E-max
     pret: 1500
+  - nume: Fațetă feldspatică
+    pret: 1800
   - nume: Fațetă E-max
     pret: 1500
-  - nume: Inlay, onlay, tabletop Emax
+  - nume: Inlay, onlay, tabletop E-max
     pret: 1200
   - nume: Cimentare adezivă / element
     pret: 100
@@ -26,25 +26,22 @@ preturi:
   - nume: Mock-up direct dinte
     pret: 100
   - nume: Mock-up + wax-up dinte
-    pret: 100
-  - nume: Proteză acrilică cu dinți din acrilat
-    pret: 1700
-  - nume: Proteză acrilică cu dinți din compozit
-    pret: 1800
-  - nume: Reparație proteză
-    pret: 300
+    pret: 150
+  - nume: Proteză acrilică
+    pret: 2000
   - nume: Rebazare proteză
     pret: 400
-  - nume: Proteză scheletată clasică
-    pret: 3000
-  - nume: Proteză scheletată (cu diferite sisteme speciale / arcadă - partea mobilă; prețul se stabilește in funcție de elementele speciale) incepând de la
+  - nume: Proteză scheletată
     pret: 3500
-  - nume: Fațetă ceramică pe masă refractară (feldspatică)
-    pret: 1600
-  - nume: Bijuterii dentare
-    pret: 400
   - nume: DCR turnat
     pret: 400
   - nume: DCR zirconiu
     pret: 600
-
+  - nume: Coroană metalo-ceramică pe implant (include bontul protetic)
+    pret: 1500
+  - nume: Coroană zirconiu-ceramică pe implant (include bontul protetic)
+    pret: 2000
+  - nume: Coroană provizorie înșurubată pe implant
+    pret: 400
+  - nume: Lucrare protetică mobilizabilă pe implanturi
+    pret: 12000 - 20000

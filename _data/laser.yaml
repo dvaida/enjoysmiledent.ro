@@ -1,11 +1,11 @@
 preturi:
-  - nume: Albire laser
-    pret: 1000
+  - nume: Albire dentară
+    pret: 1200
   - nume: Frenectomie laser
     pret: 350
   - nume: Frenoplastie bride
     pret: 300
-  - nume: Decapusonare / dinte
+  - nume: Decapișonare / dinte
     pret: 250
   - nume: Gingivectomie laser / dinte
     pret: 250
@@ -13,19 +13,15 @@ preturi:
     pret: 200
   - nume: Descoperire implant laser
     pret: 200
-  - nume: Desensibilizare Herpes, afte / ședință
+  - nume: Desensibilizare herpes, afte / ședință
     pret: 150
-  - nume: Tratament de desensibilizare
-    pret: 150
-  - nume: Biostimularea vindecării / ședința
+  - nume: Biostimularea vindecării / ședință
     pret: 100
   - nume: Decontaminare pungă parodontală / dinte
     pret: 200
-  - nume: Chiuretaj pungă parodontală profundă / dinte
+  - nume: Chiuretaj pungă parodontală
     pret: 200
   - nume: Decontaminare laser ambele arcade
-    pret: 500
-  - nume: Terapie Parodontală profundă laser ambele arcade
     pret: 500
   - nume: Depigmentare gingivală
     pret: 700

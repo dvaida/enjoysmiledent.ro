@@ -1,0 +1,19 @@
+preturi:
+  - nume: Parodontometrie
+    pret: 150
+  - nume: Tratament igienizare profesională (detartraj + airflow + periaj)
+    pret: 400
+  - nume: Detartraj cu ultrasunete / arcadă
+    pret: 150
+  - nume: Periaj profesional
+    pret: 50
+  - nume: AIR Flow
+    pret: 100
+  - nume: Determinare placă bacteriană și instructaj periaj
+    pret: 200
+  - nume: Chiuretaj parodontal în câmp închis / per arcadă cu anestezie
+    pret: 350
+  - nume: Reevaluare 6 luni (control periodic + igienizare)
+    pret: 300
+  - nume: Imobilizare dentară
+    pret: 400

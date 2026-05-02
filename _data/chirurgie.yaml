@@ -1,63 +1,57 @@
 preturi:
   - nume: Anestezie
     pret: 50
-  - nume: Incizia și drenajul endooral al abceselor dentare
-    pret: 200
   - nume: Extracție monoradiculari
-    pret: 200
-  - nume: Extracție premolari
     pret: 250
+  - nume: Extracție premolari
+    pret: 300
   - nume: Extracție molari
-    pret: 350
-  - nume: Extracție molari minte prezenți pe arcadă
-    pret: 350
+    pret: 400
+  - nume: Extracție molari de minte prezenți pe arcadă
+    pret: 400
   - nume: Odontectomie
-    pret: 500
+    pret: 600
   - nume: Descoperire canin inclus
-    pret: 350
+    pret: 450
   - nume: Gingivectomie
     pret: 200
-  - nume: Decapușonare
-    pret: 150
-  - nume: Tratament alveolită / pericoronarită
+  - nume: Decapișonare
     pret: 150
   - nume: Rezecție apicală frontali
-    pret: 400
-  - nume: Rezecție apicală premolari
     pret: 450
+  - nume: Rezecție apicală premolari
+    pret: 500
   - nume: Rezecție apicală molari
-    pret: 550
+    pret: 600
   - nume: Chistectomie
     pret: 600
   - nume: Regularizarea crestei alveolare / hemiarcadă
-    pret: 350
+    pret: 450
   - nume: Premolarizare
     pret: 300
   - nume: Excizia hiperplaziilor mucoase
-    pret: 350
+    pret: 450
   - nume: Vestibuloplastie
     pret: 500
   - nume: Grefă gingivală
     pret: 350
   - nume: Sinus lift + adiție osoasă
-    pret: 2500
-  - nume: Aplicare mini-implant ortodontic
-    pret: 600
+    pret: 2300
   - nume: Aplicare mini-implant ortodontic palatinal
     pret: 700
   - nume: Plăcuță de ancoraj
     pret: 1500
-  - nume: Implant megagen
+  - nume: Implant Megagen
     pret: 2000
-  - nume: Implant Strauman Blx.
+  - nume: Implant Straumann
     pret: 2500
   - nume: Descoperire implant dentar și aplicare șurub de vindecare
-    pret: 150
-  - nume: Explantare ( îndepărtarea chirurgicală implant )
+    pret: 200
+  - nume: Explantare (îndepărtare chirurgicală implant)
     pret: 500
   - nume: Sutură
     pret: 100
-  - nume: Aplicare con colagen postextracțional
-    pret: 100
-
-
+  - nume: Aplicare con de colagen postextracțional
+    pret: 150
+  - nume: Îndepărtare plăcuță chirurgicală
+    pret: 500

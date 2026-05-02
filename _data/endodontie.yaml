@@ -1,14 +1,12 @@
 preturi:
   - nume: Tratament endodontic rotativ complet dinți monoradiculari
-    pret: 350
-  - nume: Tratament endodontic rotativ complet premolari
     pret: 400
-  - nume: Tratament endodontic rotativ complet molari
+  - nume: Tratament endodontic rotativ complet premolari
     pret: 450
+  - nume: Tratament endodontic rotativ complet molari
+    pret: 500
   - nume: Tratament mecanico-antiseptic și obturație radiculară provizorie
-    pret: 150
-  - nume: Pansament devitalizant
-    pret: 100
+    pret: 200
   - nume: Dezobturare canal
     pret: 150
   - nume: Îndepărtare DCR / pivot fibră sticlă

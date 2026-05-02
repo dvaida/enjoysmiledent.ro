@@ -1,13 +1,13 @@
 preturi:
-  - nume: Consultație primară și plan de tratament inițial (include deviz de plată estimativ)
+  - nume: Consultație primară și plan de tratament inițial odontal
     pret: 150
+  - nume: Consult de specialitate protetic și plan de tratament (include foto + deviz de plată estimativ)
+    pret: 500
   - nume: Consultație periodică
-    pret: 50
+    pret: 100
   - nume: Fotografii diagnostice
     pret: 100
-  - nume: Modele de studiu
-    pret: 100
+  - nume: Modele de studiu gips
+    pret: 150
   - nume: Modele de studiu printate
-    pret: 400
-  - nume: Tratament de urgență
-    pret: 200
+    pret: 300
