@@ -2,14 +2,14 @@
 layout: blog-entry
 title:  "Alimentele dăunătoare dinţilor tăi. De ce trebuie să le eviţi."
 short_description: Există produse care în ciuda gustului lor tentant şi irezistibil, pot constitui un pericol pentru dinţii tăi dacă sunt consumate in exces.
-image: https://source.unsplash.com/xBTnaTgleQE
+image: https://images.unsplash.com/photo-1515007917921-cad9bf0e2e87
 author: Dr. Maria Cristescu
 last_modified_at: 2023-10-18T00:00:00+00:00
 ---
 
 ### Alimentele dăunătoare dinţilor tăi. De ce trebuie să le eviţi.
 
-![](https://source.unsplash.com/xBTnaTgleQE)
+![](https://images.unsplash.com/photo-1515007917921-cad9bf0e2e87)
 
 > Există produse care în ciuda gustului lor tentant şi irezistibil, pot constitui un pericol pentru dinţii tăi dacă sunt consumate in exces.
 

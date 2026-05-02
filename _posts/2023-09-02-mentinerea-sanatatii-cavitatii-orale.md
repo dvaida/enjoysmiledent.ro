@@ -2,14 +2,14 @@
 layout: blog-entry
 title:  "Mentinerea Sanatatii Cavitatii Orale"
 short_description: Cu toții vrem să ne menținem dinții naturali pe tot parcursul vieții sau măcar pentru o perioadă cât mai lungă de timp.
-image: https://source.unsplash.com/c8mlkovOYB4
+image: https://plus.unsplash.com/premium_photo-1682096575359-afc2a2bb3a2e
 author: Dr. Maria Cristescu
 last_modified_at: 2023-10-18T00:00:00+00:00
 ---
 
 ### Mentinerea Sanatatii Cavitatii Orale
 
-![](https://source.unsplash.com/c8mlkovOYB4)
+![](https://plus.unsplash.com/premium_photo-1682096575359-afc2a2bb3a2e)
 
 >Cu toții vrem să ne menținem dinții naturali pe tot parcursul vieții sau măcar pentru o perioadă cât mai lungă de timp.
 Iar pentru asta avem nevoie sa-i ingrijim, atât pe ei cât şi ţesutul care îi susţine, adică gingia.

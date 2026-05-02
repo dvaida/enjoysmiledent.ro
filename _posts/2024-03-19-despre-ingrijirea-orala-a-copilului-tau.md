@@ -2,14 +2,14 @@
 layout: blog-entry
 title:  "Despre îngrijirea orală a copilului tău."
 short_description: Pentru a avea grijă de sănătatea orală a copilului tău, trebuie să te implici cu adevărat şi cu regularitate.
-image: https://source.unsplash.com/TGZoCRvv7IE
+image: https://plus.unsplash.com/premium_photo-1661594908924-571a33495502
 author: Dr. Maria Cristescu
 last_modified_at: 2024-03-19T13:30:00+00:00
 ---
 
 ### Despre îngrijirea orală a copilului tău.
 
-![](https://source.unsplash.com/TGZoCRvv7IE)
+![](https://plus.unsplash.com/premium_photo-1661594908924-571a33495502)
 
 >Pentru a avea grijă de sănătatea orală a copilului tău, trebuie să te implici cu adevărat şi cu regularitate!
 

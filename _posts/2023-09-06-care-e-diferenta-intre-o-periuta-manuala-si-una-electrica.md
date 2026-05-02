@@ -2,14 +2,14 @@
 layout: blog-entry
 title:  "Ştii care e diferenţa dintre o periuţă manuală şi una electrică?"
 short_description: Fie că utilizezi o periuţă manuală sau una electrică ambele pot fi eficiente atâta timp cât  tehnica de periaj este una corectă.
-image: https://source.unsplash.com/CsPCTYYxalw
+image: https://images.unsplash.com/photo-1576177274346-6987ce5eb43a
 author: Dr. Maria Cristescu
 last_modified_at: 2023-10-18T00:00:00+00:00
 ---
 
 ### Ştii care e diferenţa dintre o periuţă manuală şi una electrică?
 
-![](https://source.unsplash.com/CsPCTYYxalw)
+![](https://images.unsplash.com/photo-1576177274346-6987ce5eb43a)
 
 >Fie că utilizezi o periuţă manuală sau una electrică ambele pot fi eficiente atâta timp cât  tehnica de periaj este una corectă.
 

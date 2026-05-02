@@ -2,14 +2,14 @@
 layout: blog-entry
 title:  "Alimentaţie sănătoasă. Dinţi sănătoşi."
 short_description: Se spune că eşti ceea ce mănânci. Iar asta se vede şi în cazul dinţilor tăi.
-image: https://source.unsplash.com/IGfIGP5ONV0
+image: https://images.unsplash.com/photo-1512621776951-a57141f2eefd
 author: Dr. Maria Cristescu
 last_modified_at: 2023-10-18T00:00:00+00:00
 ---
 
 ### Alimentaţie sănătoasă. Dinţi sănătoşi.
 
-![](https://source.unsplash.com/IGfIGP5ONV0)
+![](https://images.unsplash.com/photo-1512621776951-a57141f2eefd)
 
 > Se spune că eşti ceea ce mănânci. Iar asta se vede şi în cazul dinţilor tăi.
 Să ai grijă de dinţii tăi nu înseamnă doar o igienă orală bună, vizite periodice la medicul
